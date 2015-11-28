@@ -1,0 +1,48 @@
+<html>
+<head>
+<head>
+<meta charset="UTF-8" />
+  <!--[if lt IE 9]>
+  <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3" />
+   <meta name="viewport" content="user-scalable=yes">
+  <meta name="viewport" content="initial-scale=1">
+   <meta name="viewport" content="maximum-scale=3">
+   
+   
+<body>
+<header>
+<link rel="stylesheet" type="text/css" href="styl.css" />
+<title>Zarz¹dzanie projektami</title>
+</head>
+   <body>
+<header>
+
+<h1>Szkielet HTML 5</h1>
+</header>
+
+<nav>
+<ul>
+  <li><a href="index.html">Budowa</a></li>
+  <li><a href="#foldery">Foldery</a></li>
+  <li><a href="galeria.html">Graphics</a></li>
+</ul>
+</nav>
+
+<section>
+
+<h1>Budowa </h1>
+
+<article>
+<h2>Windows 95</h2>
+<p>Okienka w Windows- ka¿de ma 3 przyciski w prawym górnym 
+Uruchamiam dowolny program klikaj¹c na START PROGRAMY i wybieramy PROGRAM, który nas interesuje.
+Otwieram programy u¿ytkowe, aby w nich tworzyæ dokumenty: pisma, spisy itp.
+Windows, to system operacyjny i jego zadaniem jest zarz¹dzaæ: ustawieniami komputera,  
+czyli stron¹ sprzêtow¹, naszymi dokumentami i folderami/teczkami/ czyli tym, co tworzê za pomoc¹ programów u¿ytkowych i lokalizacjami internetowymi, które najczêœciej odwiedzamy, za pomoc¹  folderu ULUBIONE.
+</p>
+</article>
+    
+    </body>
+</html>
